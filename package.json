@@ -1,0 +1,20 @@
+{
+  "name": "tuanna2",
+  "version": "3.0.0",
+  "description": "Contacto",
+  "main": "index.js",
+  "bin": {
+    "contact": "./contact"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "randomstring": "^1.1.5",
+    "readline-sync": "^1.4.9",
+    "yargs": "^12.0.1"
+  }
+
+}
